@@ -45,7 +45,7 @@
 
     .filme-principal{
         font-size: 16px;
-        background: linear-gradient(rgba(0,0,0,.50), rgba(0,0,0,.50)100%), url('/img/capa2.jpg');        
+        background: linear-gradient(rgba(0,0,0,.50), rgba(0,0,0,.50)100%), url('/https://www.themoviedb.org/t/p/original/oa2gIzDwZ5weyZea5iXPLrQ7leN.jpg');        
 
         height: 600px;
         background-size: cover;
